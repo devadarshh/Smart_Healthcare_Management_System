@@ -1,4 +1,3 @@
-Here’s the content formatted exactly for direct copying into your `README.md` file:
 
 ```
 # Smart Healthcare Management System
@@ -67,5 +66,3 @@ The **Smart Healthcare Management System** is a web-based application built usin
 2. Request services, book appointments, or view medical records.
 3. Healthcare professionals can manage appointments, view patient history, and update the system through their dashboard.
 ```
-
-You can now copy this and paste it directly into your `README.md` file!
